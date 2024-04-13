@@ -6,8 +6,10 @@ I am a software engineer and technology enthusiast. I enjoy coding, creating app
 
 ## A little bit more about me:
 - 🔭 I’m currently working on **my personal website** _(coming soon!)_
-- 🌱 I’m currently refreshing on my HTML/CSS/JS skills
-- ⚡ Fun fact: I love trains 🚂!
+- 🌱 I’m currently refreshing on my **HTML/CSS/JS skills**
+- ⚡ Fun facts:
+  - I love trains 🚂!
+  - My main laptop for 3 years was a $25 2012 MacBook Pro that I refurbished from the ground up
 
 ## Tech Stack
 
@@ -26,6 +28,10 @@ Front End:
 Back End: 
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+Design and Prototyping:
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Check out some of my GitHub Projects down below!
 
