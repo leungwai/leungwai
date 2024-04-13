@@ -4,7 +4,6 @@
   <img alt="Leung Wai Banner - Adaptive to Light and Dark Modes" src="leungwailightbanner.png">
 </picture>
 
-
 # Hi 👋, I'm Leung Wai!
 
 I am a software engineer and technology enthusiast. I enjoy coding, creating apps that optimizes people's daily lives, as well as optimizing and debugging code to make it look and run nice. I enjoy tinkering with hardware and software, tweaking and optimizing them to make it run to its fullest potential. I also love keeping up with the latest technology, especially smartphones, and PCs. As a recent undergraduate of Washington University in St. Louis, I hope to land a role in software engineering so that I can continue my passion of software engineering in a professional environment. 
