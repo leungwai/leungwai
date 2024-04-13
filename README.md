@@ -4,7 +4,6 @@
   <img alt="Leung Wai Banner - Adaptive to Light and Dark Modes" src="leungwailightbanner.png">
 </picture>
 
-<sub>_(Responsive in Light and Dark Modes!)_</sub>
 
 # Hi 👋, I'm Leung Wai!
 
