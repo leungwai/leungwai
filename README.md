@@ -1,4 +1,4 @@
-# Hi👋, I'm Leung Wai 
+# Hi 👋, I'm Leung Wai!
 
 _Software Developer and Tech Enthusiast_
 
