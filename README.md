@@ -1,4 +1,8 @@
-![Leung Wai Liu](/leungwailightbanner.png)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="leungwailightbanner.png">
+  <source media="(prefers-color-scheme: dark)" srcset="leungwaidarkbanner.png">
+  <img alt="Leung Wai Banner - Adaptive to Light and Dark Modes" src="leungwailightbanner.png">
+</picture>
 
 # Hi 👋, I'm Leung Wai!
 
