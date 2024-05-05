@@ -12,7 +12,7 @@ I am a software engineer and technology enthusiast. I enjoy coding, creating app
 - 🔭 I’m currently working on:
   - the _About Page_ of **[my Personal Website](https://leungwai.github.io)** _(Home Page out!)_
 - 🌱 I’m currently refreshing on my **data structures and algorithms**
-- 📚 I'm clearning learning **Android development**
+- 📚 I'm currently learning **Android development**
 - ⚡ Fun facts:
   - 🚂 I love trains!
   - 🪈 I play the flute
