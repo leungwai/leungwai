@@ -9,17 +9,20 @@
 I am a software engineer and technology enthusiast. I enjoy coding, creating apps that optimizes people's daily lives, as well as optimizing and debugging code to make it look and run nice. I enjoy tinkering with hardware and software, tweaking and optimizing them to make it run to its fullest potential. I also love keeping up with the latest technology, especially smartphones, and PCs. As a recent undergraduate of Washington University in St. Louis, I hope to land a role in software engineering so that I can continue my passion of software engineering in a professional environment. 
 
 ## A little bit more about me:
-- 🔭 I’m currently working on **[my personal website](https://leungwai.github.io)** _(homepage preview out!)_
-- 🌱 I’m currently refreshing on my **HTML/CSS/JS skills**
+- 🔭 I’m currently working on:
+  - the _About Page_ of **[my Personal Website](https://leungwai.github.io)** _(Home Page out!)_
+- 🌱 I’m currently refreshing on my **data structures and algorithms**
+- 📚 I'm clearning learning **Android development**
 - ⚡ Fun facts:
-  - I love trains 🚂!
-  - My main laptop for 3 years was a $25 2012 MacBook Pro that I refurbished from the ground up
+  - 🚂 I love trains!
+  - 🪈 I play the flute
+  - 💻 My main laptop for 3 years was a $25 2012 MacBook Pro that I refurbished from the ground up
 
 ## Tech Stack
 
 General:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 App Development: 
 
