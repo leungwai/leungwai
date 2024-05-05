@@ -10,7 +10,7 @@ I am a software engineer and technology enthusiast. I enjoy coding, creating app
 
 ## A little bit more about me:
 - 🔭 I’m currently working on:
-  - the _About Page_ of **[my Personal Website](https://leungwai.github.io)** _(Home Page out!)_
+  - the _About Page_ of **[my Personal Website](https://leungwai.github.io)** _(Home Page completed!)_
 - 🌱 I’m currently refreshing on my **data structures and algorithms**
 - 📚 I'm currently learning **Android development**
 - ⚡ Fun facts:
