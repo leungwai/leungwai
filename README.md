@@ -16,7 +16,7 @@ I am a software engineer and technology enthusiast. I enjoy coding, creating app
 - ⚡ Fun facts:
   - 🚂 I love trains!
   - 🪈 I play the flute
-  - 💻 My main laptop for 3 years was a $25 2012 MacBook Pro that I refurbished from the ground up
+  - 💻 My main laptop for 3 years was a $25 2012 MacBook Pro purchased from e-waste center that I refurbished from the ground up
 
 ## Tech Stack
 
